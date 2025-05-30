@@ -1,2 +1,4 @@
-## Hello everyone , this is melina, welcome to github guide,
+
+## Hello everyone , this is ndagha welcome to my git guide
+- Yo, ndagha here
 -from melina ayo mates
