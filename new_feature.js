@@ -4,6 +4,7 @@ const greetNewUsers = (username) =>{
 }
 
 console.log('i love git and github')
+/* implementing a new important feature*/
 
 /* implemented bug fix logic */
 
