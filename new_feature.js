@@ -8,4 +8,5 @@ console.log('i love git and github')
 
 /* implemented bug fix logic */
 
+/* implemented another bug fix logic */
 greetNewUsers('ndagha kangoma')
